@@ -1,1 +1,0 @@
-this is firt time i use git
